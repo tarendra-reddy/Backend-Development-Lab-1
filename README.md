@@ -133,7 +133,7 @@ Save screenshots of the working routes in the `screenshots/` folder.
 
 ### Time Route
 
-![Screenshot](./Screenshot&202026-10-27%20104012.png)
+![Screenshot](./Screenshot%202026-10-27%20104012.png)
 
 ### 404 Route
 
