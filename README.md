@@ -146,7 +146,7 @@ The application can be deployed using a Node.js-compatible hosting service such 
 For deployment, the server should use the port provided by the hosting environment when available.
 
 **Provided deployment URL:**  
-https://backend-development-fundamentals.vercel.app/
+https://backend-development-lab-1.onrender.com/
 
 Verify that the deployed application is working before submitting the live URL. If deployment is unsuccessful, explain the reason in this README and include screenshots of the endpoints tested locally or through Postman.
 
