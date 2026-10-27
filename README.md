@@ -124,19 +124,19 @@ Save screenshots of the working routes in the `screenshots/` folder.
 
 ### Home Route
 
-![Home Route](screenshots/home.png)
+![Screenshot](./Screenshot%202026-10-27%20103913.png)
 
 ### About Route
 
-![About Route](screenshots/about.png)
+![Screenshot](./Screenshot%202026-10-27%20103948.png)
 
 ### Time Route
 
-![Time Route](screenshots/time.png)
+![Screenshot](./Screenshot&202026-10-27%20104012.png)
 
 ### 404 Route
 
-![404 Route](screenshots/404.png)
+![Screenshot](./Screenshot%202026-10-27%20104039.png)
 
 ## 8. Deployment
 
